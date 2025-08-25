@@ -21,19 +21,27 @@ header {
     height: 4rem;
     background-color: #423d3d;
     color: #eee;
-    padding: .1rem;
+    padding: .7rem;
+    display: flex;
+    align-items: center;
+    align-content: center;
 }
 
-.logo{
-    border: .1rem solid #0000ff;
+.logo {
+    /* border: .1rem solid #0000ff; */
     padding: .7rem;
-    width: .1rem;
-    height: .1rem;
+    width: 1rem;
+    height: 1rem;
     background-color: #0000ff;
     border-radius: 100%;
     font-weight: bold;
-    color:#eee
+    color: #eee;
+    margin-right: .7rem;
+    display: flex;
+    align-items: center;
+    align-content: center;
 }
+
 section {
     /* border: .1rem solid #ffff00; */
     display: flex;
@@ -56,5 +64,5 @@ footer {
     height: 4rem;
     background-color: #423d3d;
     color: #eee;
-    padding: .5rem;
+    padding: .7rem;
 }
