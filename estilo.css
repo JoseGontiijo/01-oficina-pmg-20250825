@@ -55,11 +55,11 @@ nav {
 }
 
 .menu-lateral {
-    border: .1rem solid blue;
+    border: .1rem solid #0000ff;
 }
 
 li {
-    border: .1rem solid red;
+    border: .1rem solid #ff0000;
     margin-bottom: 1rem;
 }
 
